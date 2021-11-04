@@ -5,6 +5,13 @@ This field started with fixed-topology networks (optimize weights only), moved t
 <img width="490" alt="fixed-topology-binaryEncode" src="https://user-images.githubusercontent.com/92612359/140245215-645576b5-535b-4f3c-a2a6-64fa5d2efd1f.png">
 
 ## Topology and Weight Evolving Artificial Neural Networks (TWEANN)
+### The direct encoding scheme
+<img width="844" alt="The direct encoding for NN" src="https://user-images.githubusercontent.com/92612359/140246485-ee5d687e-07c4-4bd2-a2b4-9c5dc8294d04.png">
+<img width="844" alt="The direct encoding for NN" src="https://user-images.githubusercontent.com/92612359/140246464-d0ef014e-7140-476f-b785-e5870a817bb3.png">
+
+
+### The indirect encoding scheme
+
 ## NeuroEvolution of Augmenting Topologies (NEAT)
 ## Novelty Search
 ## Plastic ANNs
