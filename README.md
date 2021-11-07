@@ -15,7 +15,7 @@ Graph encoding is more explicit and allow different kinds of crossover. PDGP use
 
 <img width="409" alt="graph encoding" src="https://user-images.githubusercontent.com/92612359/140252536-8948b486-b892-4db8-98c1-7fe1bf40accc.png">
 
-NeuroEvolution of Augmenting Topologies (NEAT)
+#### NeuroEvolution of Augmenting Topologies (NEAT)
 NeuroEvolution of Augmenting Topologies (NEAT) that outperforms the best fixed-topology method on a challenging benchmark reinforcement learning task. We claim that the increased efficiency is due to (1) employing a principled method of crossover of different topologies, (2) protecting structural innovation using speciation, and (3) incrementally growing from mini- mal structure.
 
 <img width="813" alt="NEAT components" src="https://user-images.githubusercontent.com/92612359/140269975-e11e508b-c486-4edd-8d3e-6c1c73933146.png">
@@ -24,7 +24,8 @@ NeuroEvolution of Augmenting Topologies (NEAT) that outperforms the best fixed-t
 ### The indirect encoding scheme
 <img width="469" alt="The development rules of indirect encoding for architecture" src="https://user-images.githubusercontent.com/92612359/140249051-8403a003-d0e8-4771-a8fa-1b65d56d6dd3.png">
 
-HyperNEAT
+
+#### HyperNEAT
 <img width="711" alt="connective CPPN" src="https://user-images.githubusercontent.com/92612359/140631142-4a932c77-08e3-46be-9171-c63ff358bf86.png">
 <img width="723" alt="HyperNEAT" src="https://user-images.githubusercontent.com/92612359/140631146-955c79ce-517d-43b7-aa4a-f38d5b697bc0.png">
 
